@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.chat {
+    background-image: url("C:\Users\Vijju\OneDrive\Desktop\birds\bird2.jpeg");
+    height: 100vh;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Roboto;
+
+}
+
+h1 {
+    background-color: #323f4b;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.msg-sent {
+    background-color: #47a3f3;
+    text-align: right;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 15px;
+    padding: 8px;
+    font-size: 13px;
+
+}
+
+.msg-recieved {
+    background-color: #52606d;
+    text-align: left;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 15px;
+    padding: 8px;
+    font-size: 13px;
+}
